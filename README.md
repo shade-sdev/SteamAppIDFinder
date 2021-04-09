@@ -1,6 +1,6 @@
 # SteamAppIDFinder
 
-SteamAppIDFinder is class Library for querying the steam store of APPID.
+SteamAppIDFinder is class Library for querying the steam store for APPID.
 
 ## Installation
 
